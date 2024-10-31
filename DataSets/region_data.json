@@ -1,0 +1,782 @@
+{
+    "DE": [
+        "Germany",
+        "German"
+    ],
+    "GB": [
+        "United Kingdom",
+        "British"
+    ],
+    "PT": [
+        "Portugal",
+        "Portuguese"
+    ],
+    "\\N": [
+        "Not Applicable",
+        "N/A"
+    ],
+    "FI": [
+        "Finland",
+        "Finnish"
+    ],
+    "US": [
+        "United States",
+        "American"
+    ],
+    "DK": [
+        "Denmark",
+        "Danish"
+    ],
+    "TR": [
+        "Turkey",
+        "Turkish"
+    ],
+    "MX": [
+        "Mexico",
+        "Mexican"
+    ],
+    "XEU": [
+        "European Union",
+        "European"
+    ],
+    "FR": [
+        "France",
+        "French"
+    ],
+    "XWW": [
+        "Worldwide",
+        "N/A"
+    ],
+    "XYU": [
+        "Yugoslavia",
+        "Yugoslav"
+    ],
+    "GR": [
+        "Greece",
+        "Greek"
+    ],
+    "VE": [
+        "Venezuela",
+        "Venezuelan"
+    ],
+    "AU": [
+        "Australia",
+        "Australian"
+    ],
+    "PL": [
+        "Poland",
+        "Polish"
+    ],
+    "ES": [
+        "Spain",
+        "Spanish"
+    ],
+    "IT": [
+        "Italy",
+        "Italian"
+    ],
+    "NL": [
+        "Netherlands",
+        "Dutch"
+    ],
+    "SE": [
+        "Sweden",
+        "Swedish"
+    ],
+    "NO": [
+        "Norway",
+        "Norwegian"
+    ],
+    "AT": [
+        "Austria",
+        "Austrian"
+    ],
+    "HU": [
+        "Hungary",
+        "Hungarian"
+    ],
+    "BE": [
+        "Belgium",
+        "Belgian"
+    ],
+    "CA": [
+        "Canada",
+        "Canadian"
+    ],
+    "IN": [
+        "India",
+        "Indian"
+    ],
+    "AR": [
+        "Argentina",
+        "Argentinian"
+    ],
+    "CSHH": [
+        "Czechoslovakia",
+        "Czechoslovak"
+    ],
+    "BR": [
+        "Brazil",
+        "Brazilian"
+    ],
+    "RU": [
+        "Russia",
+        "Russian"
+    ],
+    "XWG": [
+        "Global South",
+        "N/A"
+    ],
+    "SUHH": [
+        "Soviet Union",
+        "Soviet"
+    ],
+    "UY": [
+        "Uruguay",
+        "Uruguayan"
+    ],
+    "CH": [
+        "Switzerland",
+        "Swiss"
+    ],
+    "JP": [
+        "Japan",
+        "Japanese"
+    ],
+    "RS": [
+        "Serbia",
+        "Serbian"
+    ],
+    "NZ": [
+        "New Zealand",
+        "New Zealander"
+    ],
+    "UA": [
+        "Ukraine",
+        "Ukrainian"
+    ],
+    "IE": [
+        "Ireland",
+        "Irish"
+    ],
+    "EE": [
+        "Estonia",
+        "Estonian"
+    ],
+    "BG": [
+        "Bulgaria",
+        "Bulgarian"
+    ],
+    "HR": [
+        "Croatia",
+        "Croatian"
+    ],
+    "ID": [
+        "Indonesia",
+        "Indonesian"
+    ],
+    "CL": [
+        "Chile",
+        "Chilean"
+    ],
+    "EG": [
+        "Egypt",
+        "Egyptian"
+    ],
+    "CN": [
+        "China",
+        "Chinese"
+    ],
+    "TW": [
+        "Taiwan",
+        "Taiwanese"
+    ],
+    "IL": [
+        "Israel",
+        "Israeli"
+    ],
+    "DDDE": [
+        "East Germany",
+        "East German"
+    ],
+    "RO": [
+        "Romania",
+        "Romanian"
+    ],
+    "BO": [
+        "Bolivia",
+        "Bolivian"
+    ],
+    "AZ": [
+        "Azerbaijan",
+        "Azerbaijani"
+    ],
+    "XAS": [
+        "Asia",
+        "Asian"
+    ],
+    "HK": [
+        "Hong Kong",
+        "Hong Konger"
+    ],
+    "IR": [
+        "Iran",
+        "Iranian"
+    ],
+    "PE": [
+        "Peru",
+        "Peruvian"
+    ],
+    "YUCS": [
+        "Yugoslavia",
+        "Yugoslav"
+    ],
+    "CU": [
+        "Cuba",
+        "Cuban"
+    ],
+    "LU": [
+        "Luxembourg",
+        "Luxembourgish"
+    ],
+    "ZA": [
+        "South Africa",
+        "South African"
+    ],
+    "PH": [
+        "Philippines",
+        "Filipino"
+    ],
+    "MD": [
+        "Moldova",
+        "Moldovan"
+    ],
+    "SG": [
+        "Singapore",
+        "Singaporean"
+    ],
+    "CO": [
+        "Colombia",
+        "Colombian"
+    ],
+    "LT": [
+        "Lithuania",
+        "Lithuanian"
+    ],
+    "SI": [
+        "Slovenia",
+        "Slovenian"
+    ],
+    "NG": [
+        "Nigeria",
+        "Nigerian"
+    ],
+    "DZ": [
+        "Algeria",
+        "Algerian"
+    ],
+    "PY": [
+        "Paraguay",
+        "Paraguayan"
+    ],
+    "LK": [
+        "Sri Lanka",
+        "Sri Lankan"
+    ],
+    "CR": [
+        "Costa Rica",
+        "Costa Rican"
+    ],
+    "XSA": [
+        "South America",
+        "South American"
+    ],
+    "TN": [
+        "Tunisia",
+        "Tunisian"
+    ],
+    "DO": [
+        "Dominican Republic",
+        "Dominican"
+    ],
+    "SN": [
+        "Senegal",
+        "Senegalese"
+    ],
+    "CZ": [
+        "Czech Republic",
+        "Czech"
+    ],
+    "IS": [
+        "Iceland",
+        "Icelandic"
+    ],
+    "PR": [
+        "Puerto Rico",
+        "Puerto Rican"
+    ],
+    "AL": [
+        "Albania",
+        "Albanian"
+    ],
+    "QA": [
+        "Qatar",
+        "Qatari"
+    ],
+    "KR": [
+        "South Korea",
+        "South Korean"
+    ],
+    "GE": [
+        "Georgia",
+        "Georgian"
+    ],
+    "BJ": [
+        "Benin",
+        "Beninese"
+    ],
+    "MY": [
+        "Malaysia",
+        "Malaysian"
+    ],
+    "BA": [
+        "Bosnia and Herzegovina",
+        "Bosnian"
+    ],
+    "LB": [
+        "Lebanon",
+        "Lebanese"
+    ],
+    "CM": [
+        "Cameroon",
+        "Cameroonian"
+    ],
+    "JM": [
+        "Jamaica",
+        "Jamaican"
+    ],
+    "MC": [
+        "Monaco",
+        "Monegasque"
+    ],
+    "TH": [
+        "Thailand",
+        "Thai"
+    ],
+    "CG": [
+        "Congo",
+        "Congolese"
+    ],
+    "XKO": [
+        "Kosovo",
+        "Kosovar"
+    ],
+    "PK": [
+        "Pakistan",
+        "Pakistani"
+    ],
+    "MZ": [
+        "Mozambique",
+        "Mozambican"
+    ],
+    "KP": [
+        "North Korea",
+        "North Korean"
+    ],
+    "BD": [
+        "Bangladesh",
+        "Bangladeshi"
+    ],
+    "MA": [
+        "Morocco",
+        "Moroccan"
+    ],
+    "VN": [
+        "Vietnam",
+        "Vietnamese"
+    ],
+    "SK": [
+        "Slovakia",
+        "Slovak"
+    ],
+    "TM": [
+        "Turkmenistan",
+        "Turkmen"
+    ],
+    "MN": [
+        "Mongolia",
+        "Mongolian"
+    ],
+    "AM": [
+        "Armenia",
+        "Armenian"
+    ],
+    "AE": [
+        "United Arab Emirates",
+        "Emirati"
+    ],
+    "PA": [
+        "Panama",
+        "Panamanian"
+    ],
+    "LV": [
+        "Latvia",
+        "Latvian"
+    ],
+    "KZ": [
+        "Kazakhstan",
+        "Kazakh"
+    ],
+    "SL": [
+        "Sierra Leone",
+        "Sierra Leonean"
+    ],
+    "CD": [
+        "Democratic Republic of the Congo",
+        "Congolese"
+    ],
+    "MK": [
+        "North Macedonia",
+        "Macedonian"
+    ],
+    "TZ": [
+        "Tanzania",
+        "Tanzanian"
+    ],
+    "SY": [
+        "Syria",
+        "Syrian"
+    ],
+    "SV": [
+        "El Salvador",
+        "Salvadoran"
+    ],
+    "GT": [
+        "Guatemala",
+        "Guatemalan"
+    ],
+    "NP": [
+        "Nepal",
+        "Nepalese"
+    ],
+    "UZ": [
+        "Uzbekistan",
+        "Uzbek"
+    ],
+    "CSXX": [
+        "Serbia and Montenegro",
+        "N/A"
+    ],
+    "EC": [
+        "Ecuador",
+        "Ecuadorian"
+    ],
+    "BT": [
+        "Bhutan",
+        "Bhutanese"
+    ],
+    "HT": [
+        "Haiti",
+        "Haitian"
+    ],
+    "XPI": [
+        "Pirate",
+        "N/A"
+    ],
+    "MT": [
+        "Malta",
+        "Maltese"
+    ],
+    "MM": [
+        "Myanmar",
+        "Burmese"
+    ],
+    "SR": [
+        "Suriname",
+        "Surinamese"
+    ],
+    "PS": [
+        "Palestine",
+        "Palestinian"
+    ],
+    "TT": [
+        "Trinidad and Tobago",
+        "Trinidadian"
+    ],
+    "IQ": [
+        "Iraq",
+        "Iraqi"
+    ],
+    "AF": [
+        "Afghanistan",
+        "Afghan"
+    ],
+    "KG": [
+        "Kyrgyzstan",
+        "Kyrgyz"
+    ],
+    "GH": [
+        "Ghana",
+        "Ghanaian"
+    ],
+    "SA": [
+        "Saudi Arabia",
+        "Saudi"
+    ],
+    "NE": [
+        "Niger",
+        "Nigerien"
+    ],
+    "SD": [
+        "Sudan",
+        "Sudanese"
+    ],
+    "ME": [
+        "Montenegro",
+        "Montenegrin"
+    ],
+    "KH": [
+        "Cambodia",
+        "Cambodian"
+    ],
+    "RW": [
+        "Rwanda",
+        "Rwandan"
+    ],
+    "XAU": [
+        "Gold Coast",
+        "N/A"
+    ],
+    "LA": [
+        "Laos",
+        "Laotian"
+    ],
+    "BM": [
+        "Bermuda",
+        "Bermudian"
+    ],
+    "XKV": [
+        "Kosovo",
+        "Kosovar"
+    ],
+    "MU": [
+        "Mauritius",
+        "Mauritian"
+    ],
+    "CY": [
+        "Cyprus",
+        "Cypriot"
+    ],
+    "GF": [
+        "French Guiana",
+        "Guianese"
+    ],
+    "FO": [
+        "Faroe Islands",
+        "Faroese"
+    ],
+    "KE": [
+        "Kenya",
+        "Kenyan"
+    ],
+    "ZM": [
+        "Zambia",
+        "Zambian"
+    ],
+    "YE": [
+        "Yemen",
+        "Yemeni"
+    ],
+    "ML": [
+        "Mali",
+        "Malian"
+    ],
+    "UG": [
+        "Uganda",
+        "Ugandan"
+    ],
+    "KW": [
+        "Kuwait",
+        "Kuwaiti"
+    ],
+    "JO": [
+        "Jordan",
+        "Jordanian"
+    ],
+    "NI": [
+        "Nicaragua",
+        "Nicaraguan"
+    ],
+    "ZW": [
+        "Zimbabwe",
+        "Zimbabwean"
+    ],
+    "TG": [
+        "Togo",
+        "Togolese"
+    ],
+    "GP": [
+        "Guadeloupe",
+        "Guadeloupean"
+    ],
+    "GD": [
+        "Grenada",
+        "Grenadian"
+    ],
+    "CF": [
+        "Central African Republic",
+        "Central African"
+    ],
+    "GW": [
+        "Guinea-Bissau",
+        "Bissau-Guinean"
+    ],
+    "AQ": [
+        "Antarctica",
+        "N/A"
+    ],
+    "GA": [
+        "Gabon",
+        "Gabonese"
+    ],
+    "PG": [
+        "Papua New Guinea",
+        "Papua New Guinean"
+    ],
+    "ER": [
+        "Eritrea",
+        "Eritrean"
+    ],
+    "AN": [
+        "Netherlands Antilles",
+        "N/A"
+    ],
+    "VI": [
+        "U.S. Virgin Islands",
+        "Virgin Islander"
+    ],
+    "AO": [
+        "Angola",
+        "Angolan"
+    ],
+    "GI": [
+        "Gibraltar",
+        "Gibraltarian"
+    ],
+    "GL": [
+        "Greenland",
+        "Greenlandic"
+    ],
+    "HN": [
+        "Honduras",
+        "Honduran"
+    ],
+    "LY": [
+        "Libya",
+        "Libyan"
+    ],
+    "CI": [
+        "Ivory Coast",
+        "Ivorian"
+    ],
+    "BF": [
+        "Burkina Faso",
+        "Burkinabe"
+    ],
+    "KN": [
+        "Saint Kitts and Nevis",
+        "Kittitian or Nevisian"
+    ],
+    "BZ": [
+        "Belize",
+        "Belizean"
+    ],
+    "BY": [
+        "Belarus",
+        "Belarusian"
+    ],
+    "AW": [
+        "Aruba",
+        "Aruban"
+    ],
+    "ET": [
+        "Ethiopia",
+        "Ethiopian"
+    ],
+    "MW": [
+        "Malawi",
+        "Malawian"
+    ],
+    "GQ": [
+        "Equatorial Guinea",
+        "Equatorial Guinean"
+    ],
+    "MO": [
+        "Macau",
+        "Macanese"
+    ],
+    "XNA": [
+        "North America",
+        "North American"
+    ],
+    "IM": [
+        "Isle of Man",
+        "Manx"
+    ],
+    "SO": [
+        "Somalia",
+        "Somali"
+    ],
+    "BI": [
+        "Burundi",
+        "Burundian"
+    ],
+    "BH": [
+        "Bahrain",
+        "Bahraini"
+    ],
+    "BN": [
+        "Brunei",
+        "Bruneian"
+    ],
+    "GY": [
+        "Guyana",
+        "Guyanese"
+    ],
+    "RE": [
+        "Réunion",
+        "Réunionese"
+    ],
+    "MV": [
+        "Maldives",
+        "Maldivian"
+    ],
+    "OM": [
+        "Oman",
+        "Omani"
+    ],
+    "BB": [
+        "Barbados",
+        "Barbadian"
+    ],
+    "KY": [
+        "Cayman Islands",
+        "Caymanian"
+    ],
+    "SM": [
+        "San Marino",
+        "Sammarinese"
+    ],
+    "GU": [
+        "Guam",
+        "Guamanian"
+    ],
+    "TC": [
+        "Turks and Caicos Islands",
+        "Turks and Caicos Islander"
+    ],
+    "FJ": [
+        "Fiji",
+        "Fijian"
+    ]
+}
