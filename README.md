@@ -14,4 +14,4 @@ This project leverages Large Language Models (LLMs) and IMDb data to build a per
 
 ## Flowchart
 
-![WorkFlow Image]("https://raw.githubusercontent.com/Biswayan-Mehra/Personalized-Recommendation-System-using-LLMs/refs/heads/main/images/FlowChart.png")
+![WorkFlow Image](https://raw.githubusercontent.com/Biswayan-Mehra/Personalized-Recommendation-System-using-LLMs/refs/heads/main/images/FlowChart.png)
